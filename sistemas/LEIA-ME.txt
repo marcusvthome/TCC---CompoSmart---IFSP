@@ -1,0 +1,8 @@
+Criar nova base de dados nomeada "bdcompostagem" e importar o backup que está na pasta "sistemas/banco".
+
+-----------------------------------
+
+Usuário para login inicial
+admin@compost.com
+Senha para login
+admin
